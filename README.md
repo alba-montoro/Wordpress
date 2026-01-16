@@ -18,4 +18,9 @@ Footer:
 <img width="1350" height="469" alt="image" src="https://github.com/user-attachments/assets/27aace7b-fd3f-426a-b92e-7a9778900d7e" />
 
 
+Header (final):
+<img width="1349" height="584" alt="image" src="https://github.com/user-attachments/assets/9f8f7d09-9d30-4d36-95ac-6e9e3912baa0" />
+
+
+
 
